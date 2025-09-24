@@ -58,4 +58,7 @@ footer{
     .profile{
         flex-direction:column;
     }
+    logo{
+        margin-bottom:1rem;
+    }
 }
